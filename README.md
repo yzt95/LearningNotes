@@ -5,6 +5,7 @@
 2. [数组](./JavaBase/doc/数组.md)
 3. [面向对象1](./JavaBase/doc/面向对象1.md)
 4. [面向对象2](./JavaBase/doc/面向对象2.md)
+5. [面向对象3](./JavaBase/doc/面向对象3.md)
 
 ## 参考资料
 * [宋红康 Java 基础教程](https://www.bilibili.com/video/av48144058)
