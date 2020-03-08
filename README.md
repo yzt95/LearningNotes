@@ -7,6 +7,7 @@
 4. [面向对象2](./JavaBase/doc/面向对象2.md)
 5. [面向对象3](./JavaBase/doc/面向对象3.md)
 6. [异常](./JavaBase/doc/异常.md)
+7. [字符串](./JavaBase/doc/字符串.md)
 
 ## 参考资料
 * [宋红康 Java 基础教程](https://www.bilibili.com/video/av48144058)
