@@ -8,6 +8,9 @@
 5. [面向对象3](./JavaBase/doc/面向对象3.md)
 6. [异常](./JavaBase/doc/异常.md)
 7. [字符串](./JavaBase/doc/字符串.md)
+8. [常用类](./JavaBase/doc/常用类.md)
+9. [枚举类](./JavaBase/doc/枚举类.md)
 
 ## 参考资料
 * [宋红康 Java 基础教程](https://www.bilibili.com/video/av48144058)
+* [廖雪峰 Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
