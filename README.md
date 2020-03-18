@@ -11,6 +11,7 @@
 08. [常用类](./JavaBase/doc/常用类.md)
 09. [枚举类](./JavaBase/doc/枚举类.md)
 10. [多线程](./JavaBase/doc/多线程.md)
+11. [集合](./JavaBase/doc/集合.md)
 
 ## 参考资料
 * [宋红康 Java 基础教程](https://www.bilibili.com/video/av48144058)
