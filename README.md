@@ -8,12 +8,10 @@
 
 [Java 基础 :coffee:](#Java基础)
 
-[MySQL :dolphin:](#MySQL)
-
 [数据结构和算法 :pencil2:](#数据结构和算法)
 
 
-## Java基础 
+## Java 基础 
 
 01. 基本语法
 
@@ -47,6 +45,10 @@
 
 16. [反射](https://yzt95.github.io/post/2020-03-25-JavaReflection/)
 
-## MySQL
+Java 基础部分主要参考
+* [宋红康 Java 基础教程](https://www.bilibili.com/video/BV1Kb411W75N)
+* [廖雪峰 Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
 ## 数据结构和算法
+
+1. [动态数组](https://yzt95.github.io/post/2020-03-30-DataStructure-Arraylist/)
