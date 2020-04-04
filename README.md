@@ -10,8 +10,7 @@
 
 [数据结构和算法 :pencil2:](#数据结构和算法)
 
-
-## Java 基础 
+## Java 基础
 
 01. 基本语法
 
@@ -52,3 +51,4 @@ Java 基础部分主要参考
 ## 数据结构和算法
 
 1. [动态数组](https://yzt95.github.io/post/2020-03-30-DataStructure-Arraylist/)
+2. [单向链表](https://yzt95.github.io/post/2020-04-02-DataStructure-SingleLinkedList/)
