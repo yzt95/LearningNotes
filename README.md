@@ -44,11 +44,20 @@
 
 16. [反射](https://yzt95.github.io/post/2020-03-25-JavaReflection/)
 
-Java 基础部分主要参考
+**主要参考资料**
 * [宋红康 Java 基础教程](https://www.bilibili.com/video/BV1Kb411W75N)
 * [廖雪峰 Java 教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
 ## 数据结构和算法
 
 1. [动态数组](https://yzt95.github.io/post/2020-03-30-DataStructure-Arraylist/)
+
 2. [单向链表](https://yzt95.github.io/post/2020-04-02-DataStructure-SingleLinkedList/)
+
+3. [双向链表](https://yzt95.github.io/post/2020-04-06-DataStructure-LinkedList/)
+
+4. [循环链表](https://yzt95.github.io/post/2020-04-07-DataStructure-CircleLinkedList/)
+
+**主要参考资料**
+* [恋上数据结构与算法（第一季）](https://ke.qq.com/course/385223)
+* [小码哥《恋上数据结构与算法》学习笔记](https://github.com/rogertan30/Love-Leetcode)
