@@ -58,6 +58,9 @@
 
 4. [循环链表](https://yzt95.github.io/post/2020-04-07-DataStructure-CircleLinkedList/)
 
+5. [栈](https://yzt95.github.io/post/2020-04-09-DataStructure-Stack/)
+
+
 **主要参考资料**
 * [恋上数据结构与算法（第一季）](https://ke.qq.com/course/385223)
 * [小码哥《恋上数据结构与算法》学习笔记](https://github.com/rogertan30/Love-Leetcode)
